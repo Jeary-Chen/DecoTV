@@ -65,7 +65,7 @@ const DecoTVFooterCard = () => {
                 Powered by
               </p>
               <p className='text-2xl sm:text-3xl font-bold bg-gradient-to-r from-gray-800 via-gray-600 to-gray-800 dark:from-white dark:via-gray-200 dark:to-white bg-clip-text text-transparent'>
-                Katelya
+                VGA EE
               </p>
             </div>
           </div>
